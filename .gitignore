@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地运行时产物（各 agent 热记忆/日志不入库）
+*.local.md
+audit-log.local.md
