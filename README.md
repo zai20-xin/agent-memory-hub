@@ -1,5 +1,7 @@
 # agent-memory-hub
 
+[English](README.en.md) | 简体中文
+
 **多 Agent 记忆治理框架：一套让多个 AI Agent 共享同一份记忆、且互不污染的协议 + 工具 + 模板。**
 
 *Memory governance for multi-agent setups: one protocol, one audit tool, six templates.*
